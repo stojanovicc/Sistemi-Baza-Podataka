@@ -1,0 +1,12 @@
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\BolnicaLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\BolnicaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\BolnicaLibrary.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\BolnicaLibrary.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\BolnicaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\bin\Debug\net7.0\BolnicaLibrary.deps.json
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\bin\Debug\net7.0\BolnicaLibrary.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\bin\Debug\net7.0\BolnicaLibrary.pdb
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\BolnicaLibrary.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\refint\BolnicaLibrary.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\BolnicaLibrary.pdb
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\III faza\BolnicaWebAPI\BolnicaLibrary\obj\Debug\net7.0\ref\BolnicaLibrary.dll

@@ -1,0 +1,281 @@
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Bolnica.exe
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Bolnica.pdb
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Antlr3.Runtime.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\FluentNHibernate.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Iesi.Collections.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\NHibernate.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Remotion.Linq.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Buffers.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Memory.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Numerics.Vectors.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Text.Json.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.ValueTuple.dll
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Antlr3.Runtime.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\FluentNHibernate.pdb
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\FluentNHibernate.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Iesi.Collections.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\NHibernate.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Remotion.Linq.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Buffers.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Memory.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Numerics.Vectors.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Text.Json.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Bolnica-Aplikacija\Bolnica\bin\Debug\System.ValueTuple.xml
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.csproj.AssemblyReference.cache
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.csproj.SuggestedBindingRedirects.cache
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Form1.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.csproj.CopyComplete
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.exe
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.pdb
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.DodajIntervenciju.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.DodajOdeljenje.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.DodajPacijentAmbulantniForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.DodajPacijentStacionarniForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.DodajSmenu.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.DodajStomatoloskuStolicu.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.IzmeniIntervenciju.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.IzmeniPacijentAmbulantniForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.IzmeniPacijentStacionarniForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.IzmeniSmenu.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOdeljenje.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.IzmeniStomatoloskuStolicu.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.PocetnaStranica.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.OdeljenjaForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.OsobljeForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.PacijentiForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.DodajOsobljeMedicinskoForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.DodajOsobljeNemedicinskoForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOsobljeMedicinskoForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOsobljeNemedicinskoForma.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.PregledAmbulantnihPacijenata.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.PregledStacionarnihPacijenata.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.PregledMedicinskogOsoblja.resources
+C:\Bolnica-Aplikacija\Bolnica\obj\Debug\Bolnica.Forme.PregledOdeljenjaZaLekara.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Antlr3.Runtime.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\FluentNHibernate.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Iesi.Collections.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\NHibernate.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Remotion.Linq.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Text.Json.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Antlr3.Runtime.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\FluentNHibernate.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Iesi.Collections.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\NHibernate.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Remotion.Linq.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Text.Json.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Form1.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.DodajIntervenciju.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.DodajOdeljenje.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.DodajOsobljeMedicinskoForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.DodajOsobljeNemedicinskoForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.DodajPacijentAmbulantniForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.DodajPacijentStacionarniForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.DodajSmenu.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.DodajStomatoloskuStolicu.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.IzmeniIntervenciju.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOsobljeMedicinskoForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOsobljeNemedicinskoForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.IzmeniPacijentAmbulantniForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.IzmeniPacijentStacionarniForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.IzmeniSmenu.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOdeljenje.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.IzmeniStomatoloskuStolicu.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.OdeljenjaForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.OsobljeForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.PacijentiForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.PregledAmbulantnihPacijenata.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.PregledNemedicinskogOsoblja.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.PregledMedicinskogOsoblja.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.PregledOdeljenjaZaOdrzavanje.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.PregledOdeljenjaZaLekara.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.PregledStacionarnihPacijenata.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.PocetnaStranica.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.csproj.CopyComplete
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\obj\Debug\Bolnica.Forme.PregledStomatoloskihStolica.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\FluentNHibernate.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Iesi.Collections.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\NHibernate.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Remotion.Linq.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Buffers.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Memory.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Text.Json.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.ValueTuple.dll
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Antlr3.Runtime.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\FluentNHibernate.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Iesi.Collections.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\NHibernate.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Remotion.Linq.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Buffers.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Memory.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Text.Json.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\bin\Debug\System.ValueTuple.xml
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.csproj.AssemblyReference.cache
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Form1.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.DodajIntervenciju.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.DodajOdeljenje.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.DodajOsobljeMedicinskoForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.DodajOsobljeNemedicinskoForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.DodajPacijentAmbulantniForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.DodajPacijentStacionarniForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.DodajSmenu.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.DodajStomatoloskuStolicu.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.IzmeniIntervenciju.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOsobljeMedicinskoForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOsobljeNemedicinskoForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.IzmeniPacijentAmbulantniForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.IzmeniPacijentStacionarniForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.IzmeniSmenu.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOdeljenje.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.IzmeniStomatoloskuStolicu.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.PregledStomatoloskihStolica.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.OdeljenjaForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.OsobljeForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.PacijentiForma.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.PregledAmbulantnihPacijenata.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.PregledNemedicinskogOsoblja.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.PregledMedicinskogOsoblja.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.PregledOdeljenjaZaOdrzavanje.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.PregledOdeljenjaZaLekara.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Forme.PregledStacionarnihPacijenata.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.PocetnaStranica.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.csproj.CopyComplete
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\ANASTASIJA\Downloads\Bolnica (4)\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Antlr3.Runtime.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\FluentNHibernate.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Iesi.Collections.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\NHibernate.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Remotion.Linq.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Buffers.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Memory.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Text.Json.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Antlr3.Runtime.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\FluentNHibernate.pdb
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\FluentNHibernate.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Iesi.Collections.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\NHibernate.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Remotion.Linq.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Buffers.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Memory.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Text.Json.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Form1.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.DodajIntervenciju.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.DodajOdeljenje.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.DodajOsobljeMedicinskoForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.DodajOsobljeNemedicinskoForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.DodajPacijentAmbulantniForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.DodajPacijentStacionarniForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.DodajSmenu.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.DodajStomatoloskuStolicu.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.IzmeniIntervenciju.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOsobljeMedicinskoForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOsobljeNemedicinskoForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.IzmeniPacijentAmbulantniForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.IzmeniPacijentStacionarniForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.IzmeniSmenu.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.IzmeniOdeljenje.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.IzmeniStomatoloskuStolicu.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.PregledStomatoloskihStolica.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.OdeljenjaForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.OsobljeForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.PacijentiForma.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.PregledAmbulantnihPacijenata.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.PregledNemedicinskogOsoblja.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.PregledMedicinskogOsoblja.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.PregledOdeljenjaZaOdrzavanje.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.PregledOdeljenjaZaLekara.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Forme.PregledStacionarnihPacijenata.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.PocetnaStranica.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.csproj.CopyComplete
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\PC\OneDrive\Documents\III GODINA\VI\Sistemi baza podataka\II faza\Bolnica\Bolnica\obj\Debug\Bolnica.pdb
